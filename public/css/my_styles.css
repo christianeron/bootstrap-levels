@@ -1,4 +1,4 @@
-  .btn {
+  .button {
     background-color: blue;
     color: white;
     padding-top: 5px;
@@ -12,77 +12,77 @@
     -moz-box-shadow: 1px -3px 68px -38px rgba(0,0,0,0.33);
   }
 
-  .btn:hover {
+  .button:hover {
     background-color: darkblue;
   }
 
-  .btn:active {
+  .button:active {
     background-color: rgb(0, 0, 73);
   }
 
-  .btn-secondary {
+  .button-secondary {
     background-color: rgb(180, 178, 178);
   }
 
-  .btn-secondary:hover {
+  .button-secondary:hover {
     background-color: darkgray;
   }
 
-  .btn-secondary:active {
+  .button-secondary:active {
     background-color: rgb(94, 94, 94);
   }
 
-  .btn-success {
+  .button-success {
     background-color: green;
   }
 
-  .btn-success:hover {
+  .button-success:hover {
     background-color: darkgreen;
   }
 
-  .btn-success:active {
+  .button-success:active {
     background-color: rgb(1, 59, 1);
   }
 
-  .btn-danger {
+  .button-danger {
     background-color: red;
   }
 
-  .btn-danger:hover {
+  .button-danger:hover {
     background-color: darkred;
   }
 
-  .btn-danger:active {
+  .button-danger:active {
     background-color: rgb(102, 2, 2);
   }
 
-  .btn-warning {
+  .button-warning {
     background-color: rgb(209, 209, 6);
     color: black;
   }
 
-  .btn-warning:hover {
+  .button-warning:hover {
     background-color: darkgoldenrod;
     color: black;
   }
 
-  .btn-warning:active {
+  .button-warning:active {
     background-color: rgb(146, 107, 10);
     color: black;
   }
 
 
-.btn-info {
+.button-info {
   background-color: lightskyblue;
   color: black;
 }
 
-.btn-info:hover {
+.button-info:hover {
   background-color: skyblue;
   color: black;
 }
 
-.btn-info:active {
+.button-info:active {
   background-color: rgb(115, 175, 199);
   color: black;
 }
